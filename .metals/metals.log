@@ -1,0 +1,14 @@
+2020.12.08 10:00:15 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\Philip\VisualStudio\ScalaDemo' for client vscode.
+2020.12.08 10:00:15 INFO  time: initialize in 0.58s
+2020.12.08 10:00:16 WARN  Build server is not auto-connectable.
+2020.12.08 10:00:16 WARN  no build tool detected in workspace 'C:\Users\Philip\VisualStudio\ScalaDemo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.08 10:00:16 WARN  no build target for: C:\Users\Philip\VisualStudio\ScalaDemo\Server.scala
+2020.12.08 10:00:20 INFO  no build target: using presentation compiler with only scala-library
+Dec 08, 2020 10:00:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Dec 08, 2020 10:00:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2020.12.08 10:04:57 WARN  no build tool detected in workspace 'C:\Users\Philip\VisualStudio\ScalaDemo'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.08 10:04:57 WARN  no build target for: C:\Users\Philip\VisualStudio\ScalaDemo\Server.scala
+2020.12.08 11:02:41 WARN  no build target for: C:\Users\Philip\VisualStudio\ScalaDemo\Server.scala
+2020.12.08 11:03:09 WARN  no build target for: C:\Users\Philip\VisualStudio\ScalaDemo\Server.scala
